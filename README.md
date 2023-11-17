@@ -1,5 +1,5 @@
-# やったね! ぼくは @Tail-R!
-- i love recursion.
+# やったね! ぼくは @Tail-R
+- i love recursion 🌸
 
 
 <!---
