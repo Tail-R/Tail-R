@@ -1,5 +1,6 @@
 # やったね! ぼくは @Tail-R
-- i love recursion 🌸
+- cs student
+- i love recursion
 
 
 <!---
