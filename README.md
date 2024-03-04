@@ -1,9 +1,4 @@
-# やったね! ぼくは @Tail-R
-- cs student (˶' ᵕ ' ˶)
-- i love recursion
-
-
-<!---
-Tail-R/Tail-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# はじめまして！ ぼくは @Tail-R
+- I use arch btw
+- I love theming my computer owo*
+- 大学ではコンピュータについて勉強しています。
