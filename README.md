@@ -1,5 +1,4 @@
 # はじめまして！ ぼくは @Tail-R
 - I use arch btw
 - I love theming my computer owo*
-- 大学ではコンピュータについて勉強しています。
-- 最近はRust, Haskellを使ってます。
+- 大学ではコンピュータについて勉強しています！
